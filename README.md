@@ -178,9 +178,7 @@ def create_cv(name, career, ambitions, contact_info, skills, languages):
             \textit{Designer and Checker \hfill 03/2021 - 07/2021}\\
             Tehran, Iran
             Open Bookshelf is a great platform dedicated to providing equal and high-quality Discrete Mathematics content for Persian speakers for free, ensuring direct interaction with end-users.
-As a Designer and Checker, I was responsible for analyzing the book content, collaborating with the creative department, preparing proposals to link ideas with problems, and simplifying the solutions. My goal was to manage the project to create a delightful user experience and ensure the design was
-
- correct.
+As a Designer and Checker, I was responsible for analyzing the book content, collaborating with the creative department, preparing proposals to link ideas with problems, and simplifying the solutions. My goal was to manage the project to create a delightful user experience and ensure the design was correct.
 Contact: Behzad Shayegh - behzad.shayegh@ut.ac.ir
 
             \subsection*{Developer at Dotin}
@@ -224,33 +222,8 @@ Electronic Commerce, Electric Workshop, Information Theory
             \begin{itemize}[leftmargin=*]
                 \item Simple implementation of Field Runner game using SDL library wrapper RSDL.
             \end{itemize}
-            
-            \pagebreak
 
-            \subsection*{Web/UTRIP}
-            \textit{UT-AP \hfill 03/2019 - 03/2019}
-            \begin{itemize}[leftmargin=*]
-                \item A simple hotel reservation system which the system can recommend hotels base on your previous activities.
-            \end{itemize}
 
-            \subsection*{C--}
-            \textit{UT-Compiler \hfill 09/2021 - 12/2021}
-            \begin{itemize}[leftmargin=*]
-                \item Compiler base on some new rules.
-            \end{itemize}
-
-            \subsection*{Restoring Divider/Single-Cycle \& Multi-Cycle Mips \& Pipe-Line Processor}
-            \textit{US-D\&BA \hfill 07/2021 - 12/2021}
-            \begin{itemize}[leftmargin=*]
-                \item Making divider logically. Making Processor with two memory and one register file. Making Processor using one memory. Read all instruction immediately.
-            \end{itemize}
-
-            \subsection*{Additional Projects}
-            % Add more projects as needed, ensuring this section continues on the new page.
-            \textit{Project Title \hfill Start Date - End Date}
-            \begin{itemize}[leftmargin=*]
-                \item Project description.
-            \end{itemize}
 
             % Continue listing additional projects here.
         \end{minipage}
@@ -298,6 +271,7 @@ languages = {
 }
 
 create_cv(name, career, ambitions, contact_info, skills, languages)
+
 ```
 
 ## Notes
